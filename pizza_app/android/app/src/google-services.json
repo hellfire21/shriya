@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390881406606",
+    "project_id": "flutter-login-71043",
+    "storage_bucket": "flutter-login-71043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390881406606:android:fcfe71e2b215b2b3ab23df",
+        "android_client_info": {
+          "package_name": "com.example.pizza_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUuEv_QMEVqQ4gBVhDUgDZMIg0wEKJn_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
